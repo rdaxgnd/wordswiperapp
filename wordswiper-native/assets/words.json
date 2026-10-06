@@ -1,0 +1,22 @@
+[
+  { "en": "hello", "tr": "merhaba" },
+  { "en": "yes", "tr": "evet" },
+  { "en": "no", "tr": "hayır" },
+  { "en": "please", "tr": "lütfen" },
+  { "en": "thank you", "tr": "teşekkür ederim" },
+  { "en": "sorry", "tr": "özür dilerim" },
+  { "en": "good", "tr": "iyi" },
+  { "en": "bad", "tr": "kötü" },
+  { "en": "morning", "tr": "sabah" },
+  { "en": "night", "tr": "gece" },
+  { "en": "water", "tr": "su" },
+  { "en": "food", "tr": "yemek" },
+  { "en": "friend", "tr": "arkadaş" },
+  { "en": "family", "tr": "aile" },
+  { "en": "love", "tr": "sevgi" },
+  { "en": "house", "tr": "ev" },
+  { "en": "car", "tr": "araba" },
+  { "en": "book", "tr": "kitap" },
+  { "en": "school", "tr": "okul" },
+  { "en": "work", "tr": "iş" }
+]
